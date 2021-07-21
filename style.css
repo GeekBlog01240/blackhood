@@ -1,0 +1,51 @@
+h1
+{
+	color: black;
+    width: 800px;
+	margin: 0 auto;
+	background-color: grey;
+	text-align: center;
+	align-content: center;
+}
+
+h2
+{
+	color: darkred;
+    width: 800px;
+	margin: 0 auto;
+	background-color: darkgrey;
+	text-align: center;
+	align-content: center;
+}
+
+body
+{
+	background-color: black;
+}
+
+#Accueil
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: darkgrey;
+	text-align: center;
+	align-content: center;
+}
+
+#Règlement
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
+
+#CréationCompte 
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
